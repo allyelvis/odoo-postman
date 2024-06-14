@@ -1,4 +1,4 @@
-modules = ["bash:v1-20231215-e6d471c", "python-3.10"]
+modules = ["bash:v1-20231215-e6d471c", "nodejs-20", "python-3.10"]
 run = "update"
 
 [nix]
