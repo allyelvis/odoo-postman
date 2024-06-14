@@ -1,0 +1,9 @@
+modules = ["bash:v1-20231215-e6d471c", "python-3.10"]
+run = "update"
+
+[nix]
+channel = "stable-23_05"
+
+[deployment]
+run = ["sh", "-c", "update"]
+deploymentTarget = "cloudrun"
