@@ -1,0 +1,19 @@
+{
+  "name": "odoo-postman",
+  "version": "1.0.0",
+  "description": "This guide provides step-by-step instructions to set up Odoo Enterprise 17, generate a Postman collection, and use it for real-time streaming endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "node-fetch": "^3.3.2"
+  }
+}
