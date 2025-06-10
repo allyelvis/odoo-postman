@@ -8,7 +8,7 @@ packages = [{include = "odoo_postman"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-requests = "2.32.3"
+requests = "2.32.4"
 flask = "3.0.3"
 
 
